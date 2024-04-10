@@ -1,2 +1,6 @@
-
-asfiwufasopfuqospg
+git clone <- Solo una vez
+git status
+git add .
+git status
+git commit -m
+git push
